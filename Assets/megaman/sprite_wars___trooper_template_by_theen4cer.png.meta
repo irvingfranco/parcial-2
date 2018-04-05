@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 4392b0da192324b44ad1b8f74a1b7cfc
+timeCreated: 1522895238
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sprite_wars___trooper_template_by_theen4cer_0
+    21300002: sprite_wars___trooper_template_by_theen4cer_1
+    21300004: sprite_wars___trooper_template_by_theen4cer_2
+    21300006: sprite_wars___trooper_template_by_theen4cer_3
+    21300008: sprite_wars___trooper_template_by_theen4cer_4
+    21300010: sprite_wars___trooper_template_by_theen4cer_5
+    21300012: sprite_wars___trooper_template_by_theen4cer_6
+    21300014: sprite_wars___trooper_template_by_theen4cer_7
+    21300016: sprite_wars___trooper_template_by_theen4cer_8
+    21300018: sprite_wars___trooper_template_by_theen4cer_9
+    21300020: sprite_wars___trooper_template_by_theen4cer_10
+    21300022: sprite_wars___trooper_template_by_theen4cer_11
+    21300024: sprite_wars___trooper_template_by_theen4cer_12
+    21300026: sprite_wars___trooper_template_by_theen4cer_13
+    21300028: sprite_wars___trooper_template_by_theen4cer_14
+    21300030: sprite_wars___trooper_template_by_theen4cer_15
+    21300032: sprite_wars___trooper_template_by_theen4cer_16
+    21300034: sprite_wars___trooper_template_by_theen4cer_17
+    21300036: sprite_wars___trooper_template_by_theen4cer_18
+    21300038: sprite_wars___trooper_template_by_theen4cer_19
+    21300040: sprite_wars___trooper_template_by_theen4cer_20
+    21300042: sprite_wars___trooper_template_by_theen4cer_21
+    21300044: sprite_wars___trooper_template_by_theen4cer_22
+    21300046: sprite_wars___trooper_template_by_theen4cer_23
+    21300048: sprite_wars___trooper_template_by_theen4cer_24
+    21300050: sprite_wars___trooper_template_by_theen4cer_25
+    21300052: sprite_wars___trooper_template_by_theen4cer_26
+    21300054: sprite_wars___trooper_template_by_theen4cer_27
+    21300056: sprite_wars___trooper_template_by_theen4cer_28
+    21300058: sprite_wars___trooper_template_by_theen4cer_29
+    21300060: sprite_wars___trooper_template_by_theen4cer_30
+    21300062: sprite_wars___trooper_template_by_theen4cer_31
+    21300064: sprite_wars___trooper_template_by_theen4cer_32
+    21300066: sprite_wars___trooper_template_by_theen4cer_33
+    21300068: sprite_wars___trooper_template_by_theen4cer_34
+    21300070: sprite_wars___trooper_template_by_theen4cer_35
+    21300072: sprite_wars___trooper_template_by_theen4cer_36
+    21300074: sprite_wars___trooper_template_by_theen4cer_37
+    21300076: sprite_wars___trooper_template_by_theen4cer_38
+    21300078: sprite_wars___trooper_template_by_theen4cer_39
+    21300080: sprite_wars___trooper_template_by_theen4cer_40
+    21300082: sprite_wars___trooper_template_by_theen4cer_41
+    21300084: sprite_wars___trooper_template_by_theen4cer_42
+    21300086: sprite_wars___trooper_template_by_theen4cer_43
+    21300088: sprite_wars___trooper_template_by_theen4cer_44
+    21300090: sprite_wars___trooper_template_by_theen4cer_45
+    21300092: sprite_wars___trooper_template_by_theen4cer_46
+    21300094: sprite_wars___trooper_template_by_theen4cer_47
+    21300096: sprite_wars___trooper_template_by_theen4cer_48
+    21300098: sprite_wars___trooper_template_by_theen4cer_49
+    21300100: sprite_wars___trooper_template_by_theen4cer_50
+    21300102: sprite_wars___trooper_template_by_theen4cer_51
+    21300104: sprite_wars___trooper_template_by_theen4cer_52
+    21300106: sprite_wars___trooper_template_by_theen4cer_53
+    21300108: sprite_wars___trooper_template_by_theen4cer_54
+    21300110: sprite_wars___trooper_template_by_theen4cer_55
+    21300112: sprite_wars___trooper_template_by_theen4cer_56
+    21300114: sprite_wars___trooper_template_by_theen4cer_57
+    21300116: sprite_wars___trooper_template_by_theen4cer_58
+    21300118: sprite_wars___trooper_template_by_theen4cer_59
+    21300120: sprite_wars___trooper_template_by_theen4cer_60
+    21300122: sprite_wars___trooper_template_by_theen4cer_61
+    21300124: sprite_wars___trooper_template_by_theen4cer_62
+    21300126: sprite_wars___trooper_template_by_theen4cer_63
+    21300128: sprite_wars___trooper_template_by_theen4cer_64
+    21300130: sprite_wars___trooper_template_by_theen4cer_65
+    21300132: sprite_wars___trooper_template_by_theen4cer_66
+    21300134: sprite_wars___trooper_template_by_theen4cer_67
+    21300136: sprite_wars___trooper_template_by_theen4cer_68
+    21300138: sprite_wars___trooper_template_by_theen4cer_69
+    21300140: sprite_wars___trooper_template_by_theen4cer_70
+    21300142: sprite_wars___trooper_template_by_theen4cer_71
+    21300144: sprite_wars___trooper_template_by_theen4cer_72
+    21300146: sprite_wars___trooper_template_by_theen4cer_73
+    21300148: sprite_wars___trooper_template_by_theen4cer_74
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 459
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 460
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 462
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 459
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 466
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 470
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 424
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 419
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 419
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_11
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 419
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 417
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 409
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 369
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 371
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 375
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 374
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 374
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 370
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 327
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 326
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 326
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 326
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 332
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 331
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_27
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 336
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 336
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 285
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 284
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_32
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 281
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_33
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 292
+        width: 76
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_34
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 252
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 226
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 233
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_39
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 239
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 242
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_41
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 221
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 152
+        width: 91
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_43
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 197
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_44
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 197
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_45
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 178
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 177
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 177
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 176
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_49
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 187
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 165
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_52
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 133
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 134
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 136
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 119
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_56
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 116
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_57
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 143
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_58
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 90
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 90
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 117
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 50
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 42
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_67
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 76
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 43
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_69
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 92
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_71
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_73
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprite_wars___trooper_template_by_theen4cer_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
